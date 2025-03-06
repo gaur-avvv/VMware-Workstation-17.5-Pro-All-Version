@@ -1,5 +1,8 @@
 # VMware-Workstation-17/16-Pro-All-Version
 
+<h1>Latest Version Of VMware v17.6</h1>
+https://softwareupdate.vmware.com/cds/vmw-desktop/ws/17.6.1/24319023/windows/core/VMware-workstation-17.6.1-24319023.exe.tar
+
 <p><i>Download Any Version Of VMware From Here</p></i>
 <hr>
 
